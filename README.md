@@ -1,11 +1,17 @@
-# DuckyDev website — publication review
+# DuckyDev public website — owner review candidate
 
-This public repository is reserved for the DuckyDev website and PHQ Chat Toolkit support materials.
+**Status:** SOURCE ONLY, public repository branch. GitHub Pages activation and merging are **NOT authorised** by this commit.
 
-**Current status:** Website content is being staged for owner review. GitHub Pages publication is not approved and must remain disabled until separately authorised.
+- Public owner display name: DuckyDev, independent individual developer in England.
+- Product: PHQ Chat Toolkit; proprietary, free beta planned.
+- Public support and privacy enquiries: [DuckyDevAI@gmail.com](mailto:DuckyDevAI@gmail.com).
+- Site includes: index.html, support.html, styles.css, assets/duckydev-avatar.png.
+- No release-download link, extension runtime code, or private Project HQ materials.
+- No JavaScript, forms, analytics, cookies set by the website source, or external scripts. GitHub Pages hosting policies are separate.
+- Legal privacy policy and licence drafts are **not** included. Owner must review and approve accurate final legal pages before public site activation.
 
-The browser extension is proprietary; no extension source or private Project HQ materials belong in this repository.
+**Public visibility warning:** GitHub repositories and review branches in this repository are public even while Pages is disabled.
 
-Contact: DuckyDevAI@gmail.com
+**Next decision:** owner review of site copy and design; separately owner-approved merge / GitHub Pages activation, legal pages, and Opera submission.
 
-PHQ Chat Toolkit is an independent third-party extension and is not affiliated with or endorsed by OpenAI.
+PHQ Chat Toolkit is an independent extension and is not affiliated with or endorsed by OpenAI.
